@@ -30,7 +30,7 @@
 
  <div>
  <h2>Badges:</h2>
- <p><img src="https://www.codewars.com/users/djitrb100/badges/large" /></p>
+ <p><img src="https://www.codewars.com/users/djitrb100/badges/small" /></p>
 </div>
 
 <h2>Stats:</h2>
