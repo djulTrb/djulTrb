@@ -30,9 +30,10 @@
 
 <h3>Stats:</h3>
 <div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=djultrb&show_icons=true&locale=en&layout=compact" alt="djultrb" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=djultrb&show_icons=true&locale=en&layout=compact" alt="djultrb" /></p> 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=djultrb&show_icons=true&locale=en" alt="djultrb" /></p>
  </div>
+ <div>
  <h3>Badges:</h3>
- <p><img src="https://www.codewars.com/users/djitrb100/badges/large" align="left"/></p>
-
+ <p><img align="left" src="https://www.codewars.com/users/djitrb100/badges/large" /></p>
+</div>
