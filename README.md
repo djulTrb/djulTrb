@@ -34,3 +34,6 @@
   
  </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=djultrb&show_icons=true&locale=en" alt="djultrb" /></p>
 
+ <h3>Badges:</h3>
+ <p><img src="https://www.codewars.com/users/djitrb100/badges/large" align="left"></p>
+
