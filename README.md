@@ -26,7 +26,7 @@
 </div>
 <div>
  <h3>Badges:</h3>
- <p><img align="left" src="https://www.codewars.com/users/djitrb100/badges/large" /></p>
+ <p><img src="https://www.codewars.com/users/djitrb100/badges/large" /></p>
 </div>
 
 <h2 align="left">Languages and Tools:</h2>
