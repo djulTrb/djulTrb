@@ -51,5 +51,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djultrb&show_icons=true&locale=en" alt="djultrb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djultrb&" alt="djultrb" /></p>
 
