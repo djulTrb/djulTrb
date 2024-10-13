@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Djillali Tareb</h1>
-<h3 align="left">I'm a 22 yo passionate CS student, working as a frontend developer, i mainly love to work on  my skills and appreciate art and digital content. I'm currently trying to get better experienced with the various technologies a frontend dev should use to offer the best quality work possible</h3>
+
+<h3 align="left">A 22 yo passionate CS student, working as a frontend developer, i mainly love to work on  my skills and appreciate art and digital content. I'm currently trying to get better experienced with the various technologies a frontend dev should use to offer the best quality work possible</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djultrb&label=Profile%20views&color=0e75b6&style=flat" alt="djultrb" /> </p>
 
