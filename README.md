@@ -13,7 +13,8 @@
  <div>
  <h2>Badges:</h2>
  <p><img src="https://www.codewars.com/users/djitrb100/badges/small" /></p>
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/343b4822-33a4-408b-b1b2-81abe7321dba/deploy-status)](https://app.netlify.com/sites/app-noted/deploys)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/343b4822-33a4-408b-b1b2-81abe7321dba/deploy-status?branch=main)](https://app.netlify.com/sites/app-noted/deploys)
+
 </div>
 
 <h2>Stats:</h2>
