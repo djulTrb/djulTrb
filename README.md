@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-# Djultrb
+# Djillali Tareb
 
 **Frontend Engineer · Automation Builder · CS Student**
 
 <p>
 I build polished, performant web interfaces and intelligent automations.<br/>
-Obsessed with clean architecture, smooth UX, and making things work elegantly end-to-end.
+Obsessed with clean architecture and making things work elegantly end-to-end.
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=djultrb&label=Profile+Views&color=6c63ff&style=flat-square)](https://github.com/djultrb)
@@ -17,12 +17,12 @@ Obsessed with clean architecture, smooth UX, and making things work elegantly en
 
 ---
 
-## ⚡ What I Do
+## What I Do
 ```txt
-🖥️  Frontend Engineering  →  React, TypeScript, GSAP, Framer Motion
-🤖  AI Automations        →  n8n workflows, Python scripts, API pipelines
-🗄️  Full-Stack Integration →  Supabase, React Query, REST APIs
-📐  UI/UX Precision       →  Tailwind CSS, SASS, micro-animations
+Frontend Engineering  →  React, TypeScript, GSAP, Framer Motion
+AI Automations        →  n8n workflows, Python scripts, API pipelines
+Full-Stack Integration →  Supabase, React Query, REST APIs
+UI/UX Precision       →  Tailwind CSS, SASS, micro-animations
 ```
 
 ---
@@ -63,18 +63,18 @@ Obsessed with clean architecture, smooth UX, and making things work elegantly en
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=djultrb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djultrb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=djultrb&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" height="160"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Engineer;AI+Automation+Builder;React+%7C+TypeScript+%7C+n8n+%7C+Python" />
 
 </div>
 
 ---
 
-## 🏅 Codewars
+## Codewars
 
 <div align="center">
 
