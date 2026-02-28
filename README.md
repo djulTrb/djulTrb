@@ -67,8 +67,7 @@ UI/UX Precision       →  Tailwind CSS, SASS, micro-animations
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=djultrb&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" height="160"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Engineer;AI+Automation+Builder;React+%7C+TypeScript+%7C+n8n+%7C+Python" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=djultrb&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" height="260"/>
 
 </div>
 
